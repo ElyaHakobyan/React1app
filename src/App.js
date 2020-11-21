@@ -31,18 +31,18 @@ function App() {
   return (
     <Fragment>  
       <div className="App">
-        {Greeting}
+        {/* {Greeting} */}
         {/* <Demo />
       <img src={logo} /> */}
-        <Name />
-        <Surname surname='Hakobyan' age='21' />
+        {/* <Name />
+        <Surname surname='Hakobyan' age='21' /> */}
       </div>
 
       <div className="App">
-        {Greeting}
-        <Name />
-        <Surname />
-        <Animal cat='cat' dog='dog' fish='fish'/>
+        {/* {Greeting} */}
+        {/* <Name />
+        <Surname /> */}
+        {/* <Animal cat='cat' dog='dog' fish='fish'/> */}
       </div>
     </Fragment>
   );
